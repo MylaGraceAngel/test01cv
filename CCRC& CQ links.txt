@@ -1,0 +1,12 @@
+
+New CQWeb & CCRC for NBOS: 
+NBOS CQWEB:  https://cqnbos:7500/cqweb
+NBOS CCRC:   https://gdcpw5059:12443/TeamWeb/services/Team
+
+China new Windows 2008 servers 
+PCHZ CQWEB:  https://cqpchz:7500/cqweb/
+PCHZ CCRC:    https://hz4pw3211:12443/TeamWeb/services/Team
+
+ELON/EMEA existing Windows 2008 servers 
+ELON CQWEB:   https://dedpw3235:7500/cqweb/
+ELON CCRC:     https://dedpw3235:12443/TeamWeb/services/Team 
